@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="lo46zBPT09g1e1HHkwEA">
-    <mxGraphModel dx="1414" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="456" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,25 +252,45 @@
           <mxGeometry height="60" width="345.63" x="1042" y="490" as="geometry" />
         </mxCell>
         <mxCell id="9kNNXamBL4x3aZ7F3aSL-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;1&quot;&gt;Normal&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="65.21" x="1042.19" y="590" as="geometry" />
+          <mxGeometry height="40" width="65.21" x="1038.3" y="590" as="geometry" />
         </mxCell>
         <mxCell id="9kNNXamBL4x3aZ7F3aSL-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;1&quot;&gt;Gizi Kurang&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="65.21" x="1114.79" y="590" as="geometry" />
+          <mxGeometry height="40" width="65.21" x="1110.8999999999999" y="590" as="geometry" />
         </mxCell>
         <mxCell id="9kNNXamBL4x3aZ7F3aSL-75" edge="1" parent="1" source="9kNNXamBL4x3aZ7F3aSL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9kNNXamBL4x3aZ7F3aSL-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9kNNXamBL4x3aZ7F3aSL-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;1&quot;&gt;Gizi Buruk&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="65.21" x="1185.79" y="590" as="geometry" />
+          <mxGeometry height="40" width="65.21" x="1181.8999999999999" y="590" as="geometry" />
         </mxCell>
         <mxCell id="9kNNXamBL4x3aZ7F3aSL-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;1&quot;&gt;Stunting&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="65.21" x="1257.29" y="590" as="geometry" />
+          <mxGeometry height="40" width="65.21" x="1253.3999999999999" y="590" as="geometry" />
         </mxCell>
         <mxCell id="9kNNXamBL4x3aZ7F3aSL-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font size=&quot;1&quot;&gt;Severly&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Stunting&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="65.21" x="1330" y="590" as="geometry" />
+          <mxGeometry height="40" width="65.21" x="1326.11" y="590" as="geometry" />
         </mxCell>
         <mxCell id="9kNNXamBL4x3aZ7F3aSL-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan ke tabel pengukuran" vertex="1">
           <mxGeometry height="60" width="345.63" x="1040" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="bQXOlwy0chk1F2wuY6aM-1" edge="1" parent="1" source="9kNNXamBL4x3aZ7F3aSL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9kNNXamBL4x3aZ7F3aSL-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1215" y="570" />
+              <mxPoint x="1286" y="570" />
+            </Array>
+            <mxPoint x="1327.3955899999999" y="549.9999999999999" as="sourcePoint" />
+            <mxPoint x="1280" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQXOlwy0chk1F2wuY6aM-2" edge="1" parent="1" source="9kNNXamBL4x3aZ7F3aSL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9kNNXamBL4x3aZ7F3aSL-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1215" y="570" />
+              <mxPoint x="1359" y="570" />
+            </Array>
+            <mxPoint x="1287.63" y="550" as="sourcePoint" />
+            <mxPoint x="1358.63" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
